@@ -1,0 +1,103 @@
+.animation {
+    height: 100vh;
+    width: 100%;
+    background: #000;
+}
+
+/* .parallax {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+} */
+
+.animated_layer {
+    width: 100%;
+    height: 100vh;
+}
+
+#background {
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/background.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#jungle1{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/jungle1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#jungle2{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/jungle2.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#jungle3{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/jungle3.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#jungle4{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/jungle4.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#jungle5{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/jungle5.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#ogo_land{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/logo_land.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#man_on_mountain
+{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/man_on_mountain.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#mountains
+{
+    width: 100%;
+    height: 100vh;
+
+    background-image: url("./assets/images1/mountains.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
